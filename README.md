@@ -4,7 +4,7 @@ A simple web-based Student Attendance Management System built using HTML, CSS, a
 
 ## Live Demo
 
-[Click here to view the project](https://github.com/lokkuntlaakhila/student-attendence-management-system.git)
+[Click here to view the project]( https://lokkuntlaakhila.github.io/student-attendence-management-system/)
 
 ## Features
 
